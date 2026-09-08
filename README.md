@@ -42,6 +42,9 @@ AudioSense-AI/
 ├── LICENSE
 ├── README.md
 └── requirements.txt
+### Test Results
+
+96 tests passed with 0 failures.
 ```
 
 ---
