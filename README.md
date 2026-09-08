@@ -82,7 +82,7 @@ Edit `.env`:
 ```
 IBM_API_KEY=your_ibm_cloud_api_key
 IBM_PROJECT_ID=your_watsonx_project_id
-IBM_GRANITE_MODEL=ibm/granite-13b-chat-v2
+IBM_GRANITE_MODEL=ibm/granite-4-h-small
 IBM_ENDPOINT=https://us-south.ml.cloud.ibm.com
 ```
 
