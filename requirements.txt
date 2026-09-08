@@ -1,0 +1,7 @@
+streamlit>=1.32.0
+python-dotenv>=1.0.0
+pytest>=8.0.0
+
+# IBM Granite / watsonx.ai SDK (optional — required only for live IBM Granite responses)
+# Uncomment and install when you have valid IBM credentials:
+# ibm-watsonx-ai>=0.2.6
